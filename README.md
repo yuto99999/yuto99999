@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Leading **Peach.Tech, a tech-savvy student community 👨‍💻 .**
+- **Peach.Tech, a tech-savvy student community 👨‍💻 .**
 
 - **Please look at the [thispage](https://yuto-portfolio-five.vercel.app/)！**
 
