@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- **Peach.Tech, a tech-savvy student community 👨‍💻 .**
-
-- **Please look at the [thispage](https://yuto-portfolio-five.vercel.app/)！**
-
-
 <!--
 **yuto99999/yuto99999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuto99999&layout=compact&show_icons=true&theme=onedark" />
-</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuto99999)](https://github.com/ryo-ma/github-profile-trophy)
